@@ -2,6 +2,7 @@
 
 ## Preview
 ![ss](./public/resim_2023-01-31_003154426.png)
+![ss2](./public/resim_2023-01-31_003400925.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
