@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# React Sample Text Generator
+
+## Preview
+![ss](./public/resim_2023-01-31_003154426.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
