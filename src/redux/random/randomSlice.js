@@ -4,7 +4,6 @@ import axios from "axios";
 
 export const fetchText = createAsyncThunk("random/getText", async (paras,type) => {
     const res = await axios(`https://baconipsum.com/api/?type=all-meat&paras=${paras}&format=${type}`);
-    console.log(res)
     return res.data
   });
 
